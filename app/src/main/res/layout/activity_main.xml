@@ -19,7 +19,7 @@
         android:id="@+id/button2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Button"
+        android:text="Reletive"
         tools:layout_editor_absoluteX="161dp"
         tools:layout_editor_absoluteY="159dp" />
 
@@ -27,7 +27,7 @@
         android:id="@+id/button3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Button"
+        android:text="Constrant"
         tools:layout_editor_absoluteX="161dp"
         tools:layout_editor_absoluteY="237dp" />
 
